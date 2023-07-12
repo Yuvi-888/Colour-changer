@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    transition: 0.5s;
+}
+
+.main_container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.color_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 10px;
+    width: 20%;
+    height: 20%;
+    
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+    font-size: 18px;
+    border: 0px;
+    border-radius: 6px;
+    
+}
